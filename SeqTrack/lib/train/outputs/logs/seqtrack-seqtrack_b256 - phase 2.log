@@ -1,0 +1,338 @@
+
+
+Epoch 3 : 108 / 2254 samples , time for last 108 samples : 0:01:20 , time since beginning : 0:01:20 , time left to finish epoch : 0:26:41 , Loss/total: 7.95731, IoU: 0.03099, Accuracy: 3.10%
+Epoch 3 : 216 / 2254 samples , time for last 108 samples : 0:01:25 , time since beginning : 0:02:46 , time left to finish epoch : 0:26:08 , Loss/total: 7.90549, IoU: 0.05310, Accuracy: 5.31%
+Epoch 3 : 324 / 2254 samples , time for last 108 samples : 0:01:26 , time since beginning : 0:04:12 , time left to finish epoch : 0:25:04 , Loss/total: 7.91698, IoU: 0.05114, Accuracy: 5.11%
+Epoch 3 : 432 / 2254 samples , time for last 108 samples : 0:01:24 , time since beginning : 0:05:37 , time left to finish epoch : 0:23:42 , Loss/total: 7.90776, IoU: 0.05181, Accuracy: 5.18%
+Epoch 3 : 540 / 2254 samples , time for last 108 samples : 0:01:22 , time since beginning : 0:06:59 , time left to finish epoch : 0:22:11 , Loss/total: 7.91917, IoU: 0.05068, Accuracy: 5.07%
+Epoch 3 : 648 / 2254 samples , time for last 108 samples : 0:01:24 , time since beginning : 0:08:23 , time left to finish epoch : 0:20:48 , Loss/total: 7.91751, IoU: 0.04951, Accuracy: 4.95%
+Epoch 3 : 756 / 2254 samples , time for last 108 samples : 0:01:19 , time since beginning : 0:09:43 , time left to finish epoch : 0:19:22 , Loss/total: 7.91711, IoU: 0.04981, Accuracy: 4.98%
+Epoch 3 : 864 / 2254 samples , time for last 108 samples : 0:01:19 , time since beginning : 0:11:02 , time left to finish epoch : 0:17:43 , Loss/total: 7.92056, IoU: 0.05164, Accuracy: 5.16%
+Epoch 3 : 972 / 2254 samples , time for last 108 samples : 0:01:13 , time since beginning : 0:12:16 , time left to finish epoch : 0:15:54 , Loss/total: 7.91914, IoU: 0.05320, Accuracy: 5.32%
+Epoch 3 : 1080 / 2254 samples , time for last 108 samples : 0:01:29 , time since beginning : 0:13:45 , time left to finish epoch : 0:14:41 , Loss/total: 7.91800, IoU: 0.05344, Accuracy: 5.34%
+Epoch 3 : 1188 / 2254 samples , time for last 108 samples : 0:01:18 , time since beginning : 0:15:04 , time left to finish epoch : 0:13:14 , Loss/total: 7.91610, IoU: 0.05148, Accuracy: 5.15%
+Epoch 3 : 1296 / 2254 samples , time for last 108 samples : 0:01:30 , time since beginning : 0:16:35 , time left to finish epoch : 0:12:02 , Loss/total: 7.91286, IoU: 0.05154, Accuracy: 5.15%
+Epoch 3 : 1404 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:17:45 , time left to finish epoch : 0:10:26 , Loss/total: 7.91214, IoU: 0.05137, Accuracy: 5.14%
+Epoch 3 : 1512 / 2254 samples , time for last 108 samples : 0:01:17 , time since beginning : 0:19:03 , time left to finish epoch : 0:09:05 , Loss/total: 7.90571, IoU: 0.04950, Accuracy: 4.95%
+Epoch 3 : 1620 / 2254 samples , time for last 108 samples : 0:01:17 , time since beginning : 0:20:20 , time left to finish epoch : 0:07:50 , Loss/total: 7.90297, IoU: 0.04898, Accuracy: 4.90%
+Epoch 3 : 1728 / 2254 samples , time for last 108 samples : 0:01:13 , time since beginning : 0:21:33 , time left to finish epoch : 0:06:17 , Loss/total: 7.89967, IoU: 0.04878, Accuracy: 4.88%
+Epoch 3 : 1836 / 2254 samples , time for last 108 samples : 0:01:12 , time since beginning : 0:22:46 , time left to finish epoch : 0:04:55 , Loss/total: 7.89428, IoU: 0.04854, Accuracy: 4.85%
+Epoch 3 : 1944 / 2254 samples , time for last 108 samples : 0:01:20 , time since beginning : 0:24:06 , time left to finish epoch : 0:03:35 , Loss/total: 7.89330, IoU: 0.04704, Accuracy: 4.70%
+Epoch 3 : 2052 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:25:17 , time left to finish epoch : 0:02:20 , Loss/total: 7.88822, IoU: 0.04682, Accuracy: 4.68%
+Epoch 3 : 2160 / 2254 samples , time for last 108 samples : 0:01:29 , time since beginning : 0:26:47 , time left to finish epoch : 0:01:06 , Loss/total: 7.88518, IoU: 0.04623, Accuracy: 4.62%
+Epoch 3 : 2256 / 2254 samples , time for last 96 samples : 0:01:03 , time since beginning : 0:27:50 , time left to finish epoch : 0:00:00 , Loss/total: 7.88523, IoU: 0.04565, Accuracy: 4.57%
+
+================================================================================
+✅ Epoch 3 Summary (train):
+Total samples processed: 2256
+Total epoch time: 0:27:50
+Average Loss: 7.88523
+Average IoU: 0.04565
+Average Accuracy: 4.57%
+================================================================================
+
+
+--- Checkpoint Epoch 3 ---
+Optimizer State Keys: ['state', 'param_groups']
+LR Scheduler State:
+  - last_epoch: 3
+  - _step_count: 4
+  - _last_lr: [0.0002, 2e-05]
+RNG States Summary:
+  Torch RNG length: 5056
+  NumPy RNG first 3: [         9 3426997390  794644643]
+  CUDA RNG for 1 devices saved
+Epoch 4 : 108 / 2254 samples , time for last 108 samples : 0:01:21 , time since beginning : 0:01:21 , time left to finish epoch : 0:26:59 , Loss/total: 7.84457, IoU: 0.03288, Accuracy: 3.29%
+Epoch 4 : 216 / 2254 samples , time for last 108 samples : 0:01:20 , time since beginning : 0:02:42 , time left to finish epoch : 0:25:29 , Loss/total: 7.83162, IoU: 0.03579, Accuracy: 3.58%
+Epoch 4 : 324 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:03:51 , time left to finish epoch : 0:22:54 , Loss/total: 7.83728, IoU: 0.03935, Accuracy: 3.93%
+Epoch 4 : 432 / 2254 samples , time for last 108 samples : 0:01:27 , time since beginning : 0:05:18 , time left to finish epoch : 0:22:16 , Loss/total: 7.83422, IoU: 0.03726, Accuracy: 3.73%
+Epoch 4 : 540 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:06:28 , time left to finish epoch : 0:20:25 , Loss/total: 7.83806, IoU: 0.04070, Accuracy: 4.07%
+Epoch 4 : 648 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:07:38 , time left to finish epoch : 0:18:47 , Loss/total: 7.84003, IoU: 0.04332, Accuracy: 4.33%
+Epoch 4 : 756 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:08:49 , time left to finish epoch : 0:17:06 , Loss/total: 7.83187, IoU: 0.04972, Accuracy: 4.97%
+Epoch 4 : 864 / 2254 samples , time for last 108 samples : 0:01:28 , time since beginning : 0:10:17 , time left to finish epoch : 0:16:05 , Loss/total: 7.82155, IoU: 0.05551, Accuracy: 5.55%
+Epoch 4 : 972 / 2254 samples , time for last 108 samples : 0:01:23 , time since beginning : 0:11:40 , time left to finish epoch : 0:15:17 , Loss/total: 7.82806, IoU: 0.05872, Accuracy: 5.87%
+Epoch 4 : 1080 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:12:51 , time left to finish epoch : 0:13:31 , Loss/total: 7.82975, IoU: 0.06250, Accuracy: 6.25%
+Epoch 4 : 1188 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:14:01 , time left to finish epoch : 0:12:17 , Loss/total: 7.82768, IoU: 0.06498, Accuracy: 6.50%
+Epoch 4 : 1296 / 2254 samples , time for last 108 samples : 0:01:24 , time since beginning : 0:15:25 , time left to finish epoch : 0:11:24 , Loss/total: 7.82510, IoU: 0.06515, Accuracy: 6.51%
+Epoch 4 : 1404 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:16:36 , time left to finish epoch : 0:10:07 , Loss/total: 7.82223, IoU: 0.06593, Accuracy: 6.59%
+Epoch 4 : 1512 / 2254 samples , time for last 108 samples : 0:01:18 , time since beginning : 0:17:55 , time left to finish epoch : 0:08:41 , Loss/total: 7.82160, IoU: 0.06746, Accuracy: 6.75%
+Epoch 4 : 1620 / 2254 samples , time for last 108 samples : 0:01:18 , time since beginning : 0:19:13 , time left to finish epoch : 0:07:20 , Loss/total: 7.81997, IoU: 0.06826, Accuracy: 6.83%
+Epoch 4 : 1728 / 2254 samples , time for last 108 samples : 0:01:17 , time since beginning : 0:20:31 , time left to finish epoch : 0:06:11 , Loss/total: 7.82030, IoU: 0.07097, Accuracy: 7.10%
+Epoch 4 : 1836 / 2254 samples , time for last 108 samples : 0:01:13 , time since beginning : 0:21:45 , time left to finish epoch : 0:04:58 , Loss/total: 7.82165, IoU: 0.07267, Accuracy: 7.27%
+Epoch 4 : 1944 / 2254 samples , time for last 108 samples : 0:01:16 , time since beginning : 0:23:01 , time left to finish epoch : 0:03:37 , Loss/total: 7.82257, IoU: 0.07087, Accuracy: 7.09%
+Epoch 4 : 2052 / 2254 samples , time for last 108 samples : 0:01:18 , time since beginning : 0:24:20 , time left to finish epoch : 0:02:24 , Loss/total: 7.82291, IoU: 0.06952, Accuracy: 6.95%
+Epoch 4 : 2160 / 2254 samples , time for last 108 samples : 0:01:13 , time since beginning : 0:25:33 , time left to finish epoch : 0:01:06 , Loss/total: 7.82116, IoU: 0.07011, Accuracy: 7.01%
+Epoch 4 : 2256 / 2254 samples , time for last 96 samples : 0:01:08 , time since beginning : 0:26:42 , time left to finish epoch : 0:00:00 , Loss/total: 7.82129, IoU: 0.06982, Accuracy: 6.98%
+
+================================================================================
+✅ Epoch 4 Summary (train):
+Total samples processed: 2256
+Total epoch time: 0:26:42
+Average Loss: 7.82129
+Average IoU: 0.06982
+Average Accuracy: 6.98%
+================================================================================
+
+
+--- Checkpoint Epoch 4 ---
+Optimizer State Keys: ['state', 'param_groups']
+LR Scheduler State:
+  - last_epoch: 4
+  - _step_count: 5
+  - _last_lr: [0.0002, 2e-05]
+RNG States Summary:
+  Torch RNG length: 5056
+  NumPy RNG first 3: [         9 3426997390  794644643]
+  CUDA RNG for 1 devices saved
+Epoch 5 : 108 / 2254 samples , time for last 108 samples : 0:01:20 , time since beginning : 0:01:20 , time left to finish epoch : 0:26:39 , Loss/total: 7.79093, IoU: 0.05412, Accuracy: 5.41%
+Epoch 5 : 216 / 2254 samples , time for last 108 samples : 0:01:26 , time since beginning : 0:02:46 , time left to finish epoch : 0:26:13 , Loss/total: 7.76467, IoU: 0.06423, Accuracy: 6.42%
+Epoch 5 : 324 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:03:57 , time left to finish epoch : 0:23:24 , Loss/total: 7.75930, IoU: 0.06975, Accuracy: 6.98%
+Epoch 5 : 432 / 2254 samples , time for last 108 samples : 0:01:22 , time since beginning : 0:05:19 , time left to finish epoch : 0:22:20 , Loss/total: 7.76693, IoU: 0.08064, Accuracy: 8.06%
+Epoch 5 : 540 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:06:29 , time left to finish epoch : 0:20:27 , Loss/total: 7.77622, IoU: 0.09177, Accuracy: 9.18%
+Epoch 5 : 648 / 2254 samples , time for last 108 samples : 0:01:28 , time since beginning : 0:07:58 , time left to finish epoch : 0:19:35 , Loss/total: 7.76416, IoU: 0.09597, Accuracy: 9.60%
+Epoch 5 : 756 / 2254 samples , time for last 108 samples : 0:01:13 , time since beginning : 0:09:12 , time left to finish epoch : 0:18:00 , Loss/total: 7.75601, IoU: 0.09854, Accuracy: 9.85%
+Epoch 5 : 864 / 2254 samples , time for last 108 samples : 0:01:06 , time since beginning : 0:10:18 , time left to finish epoch : 0:15:59 , Loss/total: 7.75794, IoU: 0.10133, Accuracy: 10.13%
+Epoch 5 : 972 / 2254 samples , time for last 108 samples : 0:01:25 , time since beginning : 0:11:44 , time left to finish epoch : 0:15:13 , Loss/total: 7.75179, IoU: 0.10167, Accuracy: 10.17%
+Epoch 5 : 1080 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:12:54 , time left to finish epoch : 0:13:34 , Loss/total: 7.74793, IoU: 0.10082, Accuracy: 10.08%
+Epoch 5 : 1188 / 2254 samples , time for last 108 samples : 0:01:16 , time since beginning : 0:14:10 , time left to finish epoch : 0:12:30 , Loss/total: 7.74802, IoU: 0.10146, Accuracy: 10.15%
+Epoch 5 : 1296 / 2254 samples , time for last 108 samples : 0:01:14 , time since beginning : 0:15:24 , time left to finish epoch : 0:10:55 , Loss/total: 7.74672, IoU: 0.10057, Accuracy: 10.06%
+Epoch 5 : 1404 / 2254 samples , time for last 108 samples : 0:01:22 , time since beginning : 0:16:46 , time left to finish epoch : 0:09:52 , Loss/total: 7.75024, IoU: 0.09923, Accuracy: 9.92%
+Epoch 5 : 1512 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:17:56 , time left to finish epoch : 0:08:40 , Loss/total: 7.75156, IoU: 0.10069, Accuracy: 10.07%
+Epoch 5 : 1620 / 2254 samples , time for last 108 samples : 0:01:26 , time since beginning : 0:19:23 , time left to finish epoch : 0:07:26 , Loss/total: 7.74676, IoU: 0.10069, Accuracy: 10.07%
+Epoch 5 : 1728 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:20:32 , time left to finish epoch : 0:06:09 , Loss/total: 7.74640, IoU: 0.10021, Accuracy: 10.02%
+Epoch 5 : 1836 / 2254 samples , time for last 108 samples : 0:01:18 , time since beginning : 0:21:51 , time left to finish epoch : 0:04:55 , Loss/total: 7.74415, IoU: 0.10114, Accuracy: 10.11%
+Epoch 5 : 1944 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:23:01 , time left to finish epoch : 0:03:36 , Loss/total: 7.74544, IoU: 0.10253, Accuracy: 10.25%
+Epoch 5 : 2052 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:24:11 , time left to finish epoch : 0:02:17 , Loss/total: 7.74433, IoU: 0.10320, Accuracy: 10.32%
+Epoch 5 : 2160 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:25:21 , time left to finish epoch : 0:01:04 , Loss/total: 7.74222, IoU: 0.10511, Accuracy: 10.51%
+Epoch 5 : 2256 / 2254 samples , time for last 96 samples : 0:01:02 , time since beginning : 0:26:24 , time left to finish epoch : 0:00:00 , Loss/total: 7.74290, IoU: 0.10503, Accuracy: 10.50%
+
+================================================================================
+✅ Epoch 5 Summary (train):
+Total samples processed: 2256
+Total epoch time: 0:26:25
+Average Loss: 7.74290
+Average IoU: 0.10503
+Average Accuracy: 10.50%
+================================================================================
+
+
+--- Checkpoint Epoch 5 ---
+Optimizer State Keys: ['state', 'param_groups']
+LR Scheduler State:
+  - last_epoch: 5
+  - _step_count: 6
+  - _last_lr: [0.0002, 2e-05]
+RNG States Summary:
+  Torch RNG length: 5056
+  NumPy RNG first 3: [         9 3426997390  794644643]
+  CUDA RNG for 1 devices saved
+Epoch 6 : 108 / 2254 samples , time for last 108 samples : 0:01:19 , time since beginning : 0:01:19 , time left to finish epoch : 0:26:17 , Loss/total: 7.71904, IoU: 0.14570, Accuracy: 14.57%
+Epoch 6 : 216 / 2254 samples , time for last 108 samples : 0:01:55 , time since beginning : 0:03:15 , time left to finish epoch : 0:29:36 , Loss/total: 7.69865, IoU: 0.15211, Accuracy: 15.21%
+Epoch 6 : 324 / 2254 samples , time for last 108 samples : 0:01:11 , time since beginning : 0:04:26 , time left to finish epoch : 0:25:21 , Loss/total: 7.71894, IoU: 0.14668, Accuracy: 14.67%
+Epoch 6 : 432 / 2254 samples , time for last 108 samples : 0:01:16 , time since beginning : 0:05:43 , time left to finish epoch : 0:23:18 , Loss/total: 7.71576, IoU: 0.14305, Accuracy: 14.30%
+Epoch 6 : 540 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:06:53 , time left to finish epoch : 0:21:11 , Loss/total: 7.71531, IoU: 0.14075, Accuracy: 14.08%
+Epoch 6 : 648 / 2254 samples , time for last 108 samples : 0:01:20 , time since beginning : 0:08:14 , time left to finish epoch : 0:19:51 , Loss/total: 7.71047, IoU: 0.13836, Accuracy: 13.84%
+Epoch 6 : 756 / 2254 samples , time for last 108 samples : 0:01:16 , time since beginning : 0:09:30 , time left to finish epoch : 0:18:23 , Loss/total: 7.70802, IoU: 0.13890, Accuracy: 13.89%
+Epoch 6 : 864 / 2254 samples , time for last 108 samples : 0:01:19 , time since beginning : 0:10:50 , time left to finish epoch : 0:16:13 , Loss/total: 7.71145, IoU: 0.14362, Accuracy: 14.36%
+Epoch 6 : 972 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:12:00 , time left to finish epoch : 0:14:55 , Loss/total: 7.70592, IoU: 0.14621, Accuracy: 14.62%
+Epoch 6 : 1080 / 2254 samples , time for last 108 samples : 0:01:29 , time since beginning : 0:13:30 , time left to finish epoch : 0:14:00 , Loss/total: 7.70179, IoU: 0.14239, Accuracy: 14.24%
+Epoch 6 : 1188 / 2254 samples , time for last 108 samples : 0:01:11 , time since beginning : 0:14:41 , time left to finish epoch : 0:12:44 , Loss/total: 7.69823, IoU: 0.14452, Accuracy: 14.45%
+Epoch 6 : 1296 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:15:52 , time left to finish epoch : 0:11:12 , Loss/total: 7.69536, IoU: 0.14435, Accuracy: 14.43%
+Epoch 6 : 1404 / 2254 samples , time for last 108 samples : 0:01:23 , time since beginning : 0:17:15 , time left to finish epoch : 0:10:05 , Loss/total: 7.69460, IoU: 0.14128, Accuracy: 14.13%
+Epoch 6 : 1512 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:18:25 , time left to finish epoch : 0:08:36 , Loss/total: 7.69173, IoU: 0.13968, Accuracy: 13.97%
+Epoch 6 : 1620 / 2254 samples , time for last 108 samples : 0:01:21 , time since beginning : 0:19:47 , time left to finish epoch : 0:07:32 , Loss/total: 7.68998, IoU: 0.13675, Accuracy: 13.67%
+Epoch 6 : 1728 / 2254 samples , time for last 108 samples : 0:01:23 , time since beginning : 0:21:11 , time left to finish epoch : 0:06:11 , Loss/total: 7.68686, IoU: 0.13474, Accuracy: 13.47%
+Epoch 6 : 1836 / 2254 samples , time for last 108 samples : 0:01:11 , time since beginning : 0:22:22 , time left to finish epoch : 0:04:55 , Loss/total: 7.68394, IoU: 0.13317, Accuracy: 13.32%
+Epoch 6 : 1944 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:23:32 , time left to finish epoch : 0:03:38 , Loss/total: 7.68475, IoU: 0.13172, Accuracy: 13.17%
+Epoch 6 : 2052 / 2254 samples , time for last 108 samples : 0:01:27 , time since beginning : 0:24:59 , time left to finish epoch : 0:02:23 , Loss/total: 7.68140, IoU: 0.13039, Accuracy: 13.04%
+Epoch 6 : 2160 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:26:09 , time left to finish epoch : 0:01:06 , Loss/total: 7.68159, IoU: 0.13087, Accuracy: 13.09%
+Epoch 6 : 2256 / 2254 samples , time for last 96 samples : 0:01:05 , time since beginning : 0:27:14 , time left to finish epoch : 0:00:00 , Loss/total: 7.68036, IoU: 0.13045, Accuracy: 13.05%
+
+================================================================================
+✅ Epoch 6 Summary (train):
+Total samples processed: 2256
+Total epoch time: 0:27:14
+Average Loss: 7.68036
+Average IoU: 0.13045
+Average Accuracy: 13.05%
+================================================================================
+
+
+--- Checkpoint Epoch 6 ---
+Optimizer State Keys: ['state', 'param_groups']
+LR Scheduler State:
+  - last_epoch: 6
+  - _step_count: 7
+  - _last_lr: [0.0002, 2e-05]
+RNG States Summary:
+  Torch RNG length: 5056
+  NumPy RNG first 3: [         9 3426997390  794644643]
+  CUDA RNG for 1 devices saved
+Epoch 7 : 108 / 2254 samples , time for last 108 samples : 0:01:23 , time since beginning : 0:01:23 , time left to finish epoch : 0:27:40 , Loss/total: 7.65846, IoU: 0.19218, Accuracy: 19.22%
+Epoch 7 : 216 / 2254 samples , time for last 108 samples : 0:01:22 , time since beginning : 0:02:45 , time left to finish epoch : 0:26:02 , Loss/total: 7.64137, IoU: 0.18448, Accuracy: 18.45%
+Epoch 7 : 324 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:03:55 , time left to finish epoch : 0:23:11 , Loss/total: 7.63121, IoU: 0.18165, Accuracy: 18.17%
+Epoch 7 : 432 / 2254 samples , time for last 108 samples : 0:01:17 , time since beginning : 0:05:12 , time left to finish epoch : 0:21:51 , Loss/total: 7.63589, IoU: 0.18013, Accuracy: 18.01%
+Epoch 7 : 540 / 2254 samples , time for last 108 samples : 0:01:12 , time since beginning : 0:06:24 , time left to finish epoch : 0:20:15 , Loss/total: 7.62020, IoU: 0.17998, Accuracy: 18.00%
+Epoch 7 : 648 / 2254 samples , time for last 108 samples : 0:01:17 , time since beginning : 0:07:42 , time left to finish epoch : 0:19:01 , Loss/total: 7.61856, IoU: 0.18354, Accuracy: 18.35%
+Epoch 7 : 756 / 2254 samples , time for last 108 samples : 0:01:22 , time since beginning : 0:09:04 , time left to finish epoch : 0:17:42 , Loss/total: 7.61441, IoU: 0.17865, Accuracy: 17.86%
+Epoch 7 : 864 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:10:14 , time left to finish epoch : 0:15:59 , Loss/total: 7.60644, IoU: 0.17750, Accuracy: 17.75%
+Epoch 7 : 972 / 2254 samples , time for last 108 samples : 0:01:15 , time since beginning : 0:11:29 , time left to finish epoch : 0:14:57 , Loss/total: 7.60159, IoU: 0.17824, Accuracy: 17.82%
+Epoch 7 : 1080 / 2254 samples , time for last 108 samples : 0:01:20 , time since beginning : 0:12:50 , time left to finish epoch : 0:13:45 , Loss/total: 7.59731, IoU: 0.17812, Accuracy: 17.81%
+Epoch 7 : 1188 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:13:59 , time left to finish epoch : 0:12:24 , Loss/total: 7.60107, IoU: 0.17757, Accuracy: 17.76%
+Epoch 7 : 1296 / 2254 samples , time for last 108 samples : 0:01:17 , time since beginning : 0:15:17 , time left to finish epoch : 0:11:09 , Loss/total: 7.59578, IoU: 0.17779, Accuracy: 17.78%
+Epoch 7 : 1404 / 2254 samples , time for last 108 samples : 0:01:18 , time since beginning : 0:16:35 , time left to finish epoch : 0:09:49 , Loss/total: 7.59704, IoU: 0.17785, Accuracy: 17.78%
+Epoch 7 : 1512 / 2254 samples , time for last 108 samples : 0:01:14 , time since beginning : 0:17:50 , time left to finish epoch : 0:08:40 , Loss/total: 7.59719, IoU: 0.17762, Accuracy: 17.76%
+Epoch 7 : 1620 / 2254 samples , time for last 108 samples : 0:01:19 , time since beginning : 0:19:10 , time left to finish epoch : 0:07:28 , Loss/total: 7.59794, IoU: 0.17761, Accuracy: 17.76%
+Epoch 7 : 1728 / 2254 samples , time for last 108 samples : 0:01:16 , time since beginning : 0:20:26 , time left to finish epoch : 0:06:09 , Loss/total: 7.60041, IoU: 0.17838, Accuracy: 17.84%
+Epoch 7 : 1836 / 2254 samples , time for last 108 samples : 0:01:11 , time since beginning : 0:21:38 , time left to finish epoch : 0:04:56 , Loss/total: 7.59606, IoU: 0.17710, Accuracy: 17.71%
+Epoch 7 : 1944 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:22:48 , time left to finish epoch : 0:03:35 , Loss/total: 7.59677, IoU: 0.17553, Accuracy: 17.55%
+Epoch 7 : 2052 / 2254 samples , time for last 108 samples : 0:01:22 , time since beginning : 0:24:11 , time left to finish epoch : 0:02:21 , Loss/total: 7.59792, IoU: 0.17454, Accuracy: 17.45%
+Epoch 7 : 2160 / 2254 samples , time for last 108 samples : 0:01:18 , time since beginning : 0:25:30 , time left to finish epoch : 0:01:06 , Loss/total: 7.59341, IoU: 0.17431, Accuracy: 17.43%
+Epoch 7 : 2256 / 2254 samples , time for last 96 samples : 0:01:01 , time since beginning : 0:26:32 , time left to finish epoch : 0:00:00 , Loss/total: 7.59439, IoU: 0.17328, Accuracy: 17.33%
+
+================================================================================
+✅ Epoch 7 Summary (train):
+Total samples processed: 2256
+Total epoch time: 0:26:32
+Average Loss: 7.59439
+Average IoU: 0.17328
+Average Accuracy: 17.33%
+================================================================================
+
+
+--- Checkpoint Epoch 7 ---
+Optimizer State Keys: ['state', 'param_groups']
+LR Scheduler State:
+  - last_epoch: 7
+  - _step_count: 8
+  - _last_lr: [0.0002, 2e-05]
+RNG States Summary:
+  Torch RNG length: 5056
+  NumPy RNG first 3: [         9 3426997390  794644643]
+  CUDA RNG for 1 devices saved
+Epoch 8 : 108 / 2254 samples , time for last 108 samples : 0:01:17 , time since beginning : 0:01:17 , time left to finish epoch : 0:25:40 , Loss/total: 7.50346, IoU: 0.18897, Accuracy: 18.90%
+Epoch 8 : 216 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:02:27 , time left to finish epoch : 0:23:08 , Loss/total: 7.52787, IoU: 0.18327, Accuracy: 18.33%
+Epoch 8 : 324 / 2254 samples , time for last 108 samples : 0:01:28 , time since beginning : 0:03:56 , time left to finish epoch : 0:23:15 , Loss/total: 7.52119, IoU: 0.19636, Accuracy: 19.64%
+Epoch 8 : 432 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:05:05 , time left to finish epoch : 0:21:15 , Loss/total: 7.51416, IoU: 0.18776, Accuracy: 18.78%
+Epoch 8 : 540 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:06:15 , time left to finish epoch : 0:19:40 , Loss/total: 7.53587, IoU: 0.17964, Accuracy: 17.96%
+Epoch 8 : 648 / 2254 samples , time for last 108 samples : 0:01:17 , time since beginning : 0:07:32 , time left to finish epoch : 0:18:32 , Loss/total: 7.53684, IoU: 0.17759, Accuracy: 17.76%
+Epoch 8 : 756 / 2254 samples , time for last 108 samples : 0:01:19 , time since beginning : 0:08:52 , time left to finish epoch : 0:17:22 , Loss/total: 7.53396, IoU: 0.17499, Accuracy: 17.50%
+Epoch 8 : 864 / 2254 samples , time for last 108 samples : 0:01:21 , time since beginning : 0:10:13 , time left to finish epoch : 0:16:31 , Loss/total: 7.53219, IoU: 0.16980, Accuracy: 16.98%
+Epoch 8 : 972 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:11:23 , time left to finish epoch : 0:14:40 , Loss/total: 7.54855, IoU: 0.16221, Accuracy: 16.22%
+Epoch 8 : 1080 / 2254 samples , time for last 108 samples : 0:01:23 , time since beginning : 0:12:47 , time left to finish epoch : 0:13:52 , Loss/total: 7.55290, IoU: 0.15849, Accuracy: 15.85%
+Epoch 8 : 1188 / 2254 samples , time for last 108 samples : 0:01:06 , time since beginning : 0:13:54 , time left to finish epoch : 0:12:29 , Loss/total: 7.55477, IoU: 0.15475, Accuracy: 15.48%
+Epoch 8 : 1296 / 2254 samples , time for last 108 samples : 0:01:18 , time since beginning : 0:15:12 , time left to finish epoch : 0:11:15 , Loss/total: 7.55392, IoU: 0.14975, Accuracy: 14.97%
+Epoch 8 : 1404 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:16:21 , time left to finish epoch : 0:09:45 , Loss/total: 7.54481, IoU: 0.14640, Accuracy: 14.64%
+Epoch 8 : 1512 / 2254 samples , time for last 108 samples : 0:01:22 , time since beginning : 0:17:44 , time left to finish epoch : 0:08:32 , Loss/total: 7.54314, IoU: 0.14574, Accuracy: 14.57%
+Epoch 8 : 1620 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:18:54 , time left to finish epoch : 0:07:17 , Loss/total: 7.54296, IoU: 0.14351, Accuracy: 14.35%
+Epoch 8 : 1728 / 2254 samples , time for last 108 samples : 0:01:21 , time since beginning : 0:20:15 , time left to finish epoch : 0:06:01 , Loss/total: 7.54457, IoU: 0.14247, Accuracy: 14.25%
+Epoch 8 : 1836 / 2254 samples , time for last 108 samples : 0:01:19 , time since beginning : 0:21:34 , time left to finish epoch : 0:04:55 , Loss/total: 7.54245, IoU: 0.14200, Accuracy: 14.20%
+Epoch 8 : 1944 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:22:44 , time left to finish epoch : 0:03:35 , Loss/total: 7.54481, IoU: 0.14361, Accuracy: 14.36%
+Epoch 8 : 2052 / 2254 samples , time for last 108 samples : 0:01:23 , time since beginning : 0:24:07 , time left to finish epoch : 0:02:24 , Loss/total: 7.54462, IoU: 0.14364, Accuracy: 14.36%
+Epoch 8 : 2160 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:25:16 , time left to finish epoch : 0:01:05 , Loss/total: 7.54736, IoU: 0.14484, Accuracy: 14.48%
+Epoch 8 : 2256 / 2254 samples , time for last 96 samples : 0:01:10 , time since beginning : 0:26:27 , time left to finish epoch : 0:00:00 , Loss/total: 7.54284, IoU: 0.14516, Accuracy: 14.52%
+
+================================================================================
+✅ Epoch 8 Summary (train):
+Total samples processed: 2256
+Total epoch time: 0:26:27
+Average Loss: 7.54284
+Average IoU: 0.14516
+Average Accuracy: 14.52%
+================================================================================
+
+
+--- Checkpoint Epoch 8 ---
+Optimizer State Keys: ['state', 'param_groups']
+LR Scheduler State:
+  - last_epoch: 8
+  - _step_count: 9
+  - _last_lr: [0.0002, 2e-05]
+RNG States Summary:
+  Torch RNG length: 5056
+  NumPy RNG first 3: [         9 3426997390  794644643]
+  CUDA RNG for 1 devices saved
+Epoch 9 : 108 / 2254 samples , time for last 108 samples : 0:01:29 , time since beginning : 0:01:29 , time left to finish epoch : 0:29:41 , Loss/total: 7.44014, IoU: 0.18715, Accuracy: 18.72%
+Epoch 9 : 216 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:02:39 , time left to finish epoch : 0:24:42 , Loss/total: 7.46701, IoU: 0.18344, Accuracy: 18.34%
+Epoch 9 : 324 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:03:48 , time left to finish epoch : 0:22:24 , Loss/total: 7.47931, IoU: 0.17921, Accuracy: 17.92%
+Epoch 9 : 432 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:04:58 , time left to finish epoch : 0:20:43 , Loss/total: 7.46712, IoU: 0.17722, Accuracy: 17.72%
+Epoch 9 : 540 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:06:08 , time left to finish epoch : 0:19:16 , Loss/total: 7.47781, IoU: 0.17655, Accuracy: 17.66%
+Epoch 9 : 648 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:07:17 , time left to finish epoch : 0:17:55 , Loss/total: 7.48480, IoU: 0.17726, Accuracy: 17.73%
+Epoch 9 : 756 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:08:27 , time left to finish epoch : 0:16:04 , Loss/total: 7.49122, IoU: 0.18101, Accuracy: 18.10%
+Epoch 9 : 864 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:09:36 , time left to finish epoch : 0:14:54 , Loss/total: 7.48219, IoU: 0.18941, Accuracy: 18.94%
+Epoch 9 : 972 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:10:46 , time left to finish epoch : 0:13:46 , Loss/total: 7.47827, IoU: 0.19273, Accuracy: 19.27%
+Epoch 9 : 1080 / 2254 samples , time for last 108 samples : 0:02:01 , time since beginning : 0:12:47 , time left to finish epoch : 0:13:34 , Loss/total: 7.48026, IoU: 0.19133, Accuracy: 19.13%
+Epoch 9 : 1188 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:13:58 , time left to finish epoch : 0:12:21 , Loss/total: 7.47876, IoU: 0.19321, Accuracy: 19.32%
+Epoch 9 : 1296 / 2254 samples , time for last 108 samples : 0:01:17 , time since beginning : 0:15:16 , time left to finish epoch : 0:11:19 , Loss/total: 7.47795, IoU: 0.19341, Accuracy: 19.34%
+Epoch 9 : 1404 / 2254 samples , time for last 108 samples : 0:01:19 , time since beginning : 0:16:35 , time left to finish epoch : 0:10:16 , Loss/total: 7.47687, IoU: 0.19202, Accuracy: 19.20%
+Epoch 9 : 1512 / 2254 samples , time for last 108 samples : 0:01:14 , time since beginning : 0:17:50 , time left to finish epoch : 0:09:05 , Loss/total: 7.47600, IoU: 0.19101, Accuracy: 19.10%
+Epoch 9 : 1620 / 2254 samples , time for last 108 samples : 0:01:16 , time since beginning : 0:19:06 , time left to finish epoch : 0:07:54 , Loss/total: 7.47305, IoU: 0.19174, Accuracy: 19.17%
+Epoch 9 : 1728 / 2254 samples , time for last 108 samples : 0:01:15 , time since beginning : 0:20:22 , time left to finish epoch : 0:06:08 , Loss/total: 7.47471, IoU: 0.19350, Accuracy: 19.35%
+Epoch 9 : 1836 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:21:33 , time left to finish epoch : 0:04:52 , Loss/total: 7.47449, IoU: 0.19463, Accuracy: 19.46%
+Epoch 9 : 1944 / 2254 samples , time for last 108 samples : 0:01:18 , time since beginning : 0:22:51 , time left to finish epoch : 0:03:37 , Loss/total: 7.47306, IoU: 0.19302, Accuracy: 19.30%
+Epoch 9 : 2052 / 2254 samples , time for last 108 samples : 0:01:24 , time since beginning : 0:24:15 , time left to finish epoch : 0:02:22 , Loss/total: 7.47393, IoU: 0.19419, Accuracy: 19.42%
+Epoch 9 : 2160 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:25:25 , time left to finish epoch : 0:01:05 , Loss/total: 7.47477, IoU: 0.19438, Accuracy: 19.44%
+Epoch 9 : 2256 / 2254 samples , time for last 96 samples : 0:01:01 , time since beginning : 0:26:27 , time left to finish epoch : 0:00:00 , Loss/total: 7.47222, IoU: 0.19542, Accuracy: 19.54%
+
+================================================================================
+✅ Epoch 9 Summary (train):
+Total samples processed: 2256
+Total epoch time: 0:26:27
+Average Loss: 7.47222
+Average IoU: 0.19542
+Average Accuracy: 19.54%
+================================================================================
+
+
+--- Checkpoint Epoch 9 ---
+Optimizer State Keys: ['state', 'param_groups']
+LR Scheduler State:
+  - last_epoch: 9
+  - _step_count: 10
+  - _last_lr: [0.0002, 2e-05]
+RNG States Summary:
+  Torch RNG length: 5056
+  NumPy RNG first 3: [         9 3426997390  794644643]
+  CUDA RNG for 1 devices saved
+Epoch 10 : 108 / 2254 samples , time for last 108 samples : 0:01:17 , time since beginning : 0:01:17 , time left to finish epoch : 0:25:43 , Loss/total: 7.48921, IoU: 0.19969, Accuracy: 19.97%
+Epoch 10 : 216 / 2254 samples , time for last 108 samples : 0:01:11 , time since beginning : 0:02:28 , time left to finish epoch : 0:23:23 , Loss/total: 7.45709, IoU: 0.20918, Accuracy: 20.92%
+Epoch 10 : 324 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:03:38 , time left to finish epoch : 0:21:36 , Loss/total: 7.47354, IoU: 0.20514, Accuracy: 20.51%
+Epoch 10 : 432 / 2254 samples , time for last 108 samples : 0:01:26 , time since beginning : 0:05:04 , time left to finish epoch : 0:21:15 , Loss/total: 7.48741, IoU: 0.20783, Accuracy: 20.78%
+Epoch 10 : 540 / 2254 samples , time for last 108 samples : 0:01:12 , time since beginning : 0:06:16 , time left to finish epoch : 0:19:48 , Loss/total: 7.47975, IoU: 0.21057, Accuracy: 21.06%
+Epoch 10 : 648 / 2254 samples , time for last 108 samples : 0:01:17 , time since beginning : 0:07:33 , time left to finish epoch : 0:18:39 , Loss/total: 7.48930, IoU: 0.21049, Accuracy: 21.05%
+Epoch 10 : 756 / 2254 samples , time for last 108 samples : 0:01:15 , time since beginning : 0:08:49 , time left to finish epoch : 0:17:18 , Loss/total: 7.49264, IoU: 0.21186, Accuracy: 21.19%
+Epoch 10 : 864 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:09:58 , time left to finish epoch : 0:15:58 , Loss/total: 7.49514, IoU: 0.21055, Accuracy: 21.06%
+Epoch 10 : 972 / 2254 samples , time for last 108 samples : 0:01:23 , time since beginning : 0:11:22 , time left to finish epoch : 0:15:12 , Loss/total: 7.49237, IoU: 0.21084, Accuracy: 21.08%
+Epoch 10 : 1080 / 2254 samples , time for last 108 samples : 0:01:19 , time since beginning : 0:12:41 , time left to finish epoch : 0:13:45 , Loss/total: 7.48459, IoU: 0.21204, Accuracy: 21.20%
+Epoch 10 : 1188 / 2254 samples , time for last 108 samples : 0:01:14 , time since beginning : 0:13:55 , time left to finish epoch : 0:12:32 , Loss/total: 7.48661, IoU: 0.21221, Accuracy: 21.22%
+Epoch 10 : 1296 / 2254 samples , time for last 108 samples : 0:01:14 , time since beginning : 0:15:10 , time left to finish epoch : 0:11:12 , Loss/total: 7.48161, IoU: 0.21325, Accuracy: 21.32%
+Epoch 10 : 1404 / 2254 samples , time for last 108 samples : 0:01:09 , time since beginning : 0:16:20 , time left to finish epoch : 0:09:48 , Loss/total: 7.48011, IoU: 0.21265, Accuracy: 21.27%
+Epoch 10 : 1512 / 2254 samples , time for last 108 samples : 0:01:18 , time since beginning : 0:17:38 , time left to finish epoch : 0:08:45 , Loss/total: 7.48032, IoU: 0.21129, Accuracy: 21.13%
+Epoch 10 : 1620 / 2254 samples , time for last 108 samples : 0:01:19 , time since beginning : 0:18:57 , time left to finish epoch : 0:07:24 , Loss/total: 7.47453, IoU: 0.21054, Accuracy: 21.05%
+Epoch 10 : 1728 / 2254 samples , time for last 108 samples : 0:01:18 , time since beginning : 0:20:16 , time left to finish epoch : 0:06:08 , Loss/total: 7.47078, IoU: 0.21161, Accuracy: 21.16%
+Epoch 10 : 1836 / 2254 samples , time for last 108 samples : 0:01:10 , time since beginning : 0:21:27 , time left to finish epoch : 0:04:50 , Loss/total: 7.46722, IoU: 0.21136, Accuracy: 21.14%
+Epoch 10 : 1944 / 2254 samples , time for last 108 samples : 0:01:19 , time since beginning : 0:22:46 , time left to finish epoch : 0:03:37 , Loss/total: 7.46614, IoU: 0.20972, Accuracy: 20.97%
+Epoch 10 : 2052 / 2254 samples , time for last 108 samples : 0:01:18 , time since beginning : 0:24:05 , time left to finish epoch : 0:02:24 , Loss/total: 7.46561, IoU: 0.20858, Accuracy: 20.86%
+Epoch 10 : 2160 / 2254 samples , time for last 108 samples : 0:01:08 , time since beginning : 0:25:13 , time left to finish epoch : 0:01:05 , Loss/total: 7.46240, IoU: 0.20878, Accuracy: 20.88%
+Epoch 10 : 2256 / 2254 samples , time for last 96 samples : 0:01:14 , time since beginning : 0:26:27 , time left to finish epoch : 0:00:00 , Loss/total: 7.45825, IoU: 0.20890, Accuracy: 20.89%
+
+================================================================================
+✅ Epoch 10 Summary (train):
+Total samples processed: 2256
+Total epoch time: 0:26:27
+Average Loss: 7.45825
+Average IoU: 0.20890
+Average Accuracy: 20.89%
+================================================================================
+
+
+--- Checkpoint Epoch 10 ---
+Optimizer State Keys: ['state', 'param_groups']
+LR Scheduler State:
+  - last_epoch: 10
+  - _step_count: 11
+  - _last_lr: [0.0002, 2e-05]
+RNG States Summary:
+  Torch RNG length: 5056
+  NumPy RNG first 3: [         9 3426997390  794644643]
+  CUDA RNG for 1 devices saved
